@@ -1,2 +1,3 @@
-# Learning Cables
-This repository contains all the files used in my lessons about [cables.gl](https://cables.gl).
+# Arte Digitale con Cables
+
+Questo repository contiene tutti i file di supporto alle mie lezioni su [cables.gl](https://cables.gl).
