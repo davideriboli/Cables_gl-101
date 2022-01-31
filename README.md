@@ -4,5 +4,5 @@
 
 Questo repository contiene tutti i file di supporto alle mie lezioni su [cables.gl](https://cables.gl).
 
-Il sito ufficiale di riferimento è: https://cables.gl
-Il sito di supporto alla didattica è: https://davideriboli.github.io
+- Il sito ufficiale di riferimento è: https://cables.gl
+- Il sito di supporto alla didattica è: https://davideriboli.github.io
