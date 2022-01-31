@@ -1,4 +1,4 @@
-# The Byte Size Variations
+# The Byte Size Variation
 
 La cartella contiene tutte le patch che ho prodotto nel mio percorso di apprendimento di [Cables](https://cables.gl), seguendo i tutorial ufficiali della playlist [Byte Size](https://www.youtube.com/playlist?list=PLYimpE2xWgBt8kR3H3Pk_U0PYqLrHNWf5).
 
