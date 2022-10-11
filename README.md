@@ -1,8 +1,9 @@
-# Arte Digitale con Cables
+# Cables.gl 101
 
-![Cover](https://user-images.githubusercontent.com/623043/151808901-a860a1bb-2dfc-4b54-a741-02b2370eba31.jpg)
+This repository contains all the materials from my courses on Generative Art with [Cables.gl](https://cables.gl/). The repository is organized in the form of an Obsidian Vault, so you should get [Obsidian](https://obsidian.md/) first and then open the main directory as a *vault*.
 
-Questo repository contiene tutti i file di supporto alle mie lezioni su [cables.gl](https://cables.gl).
+The repository contains files coded by me, other authors and my students. Credits are always given in the accompanying notes.
 
-- Il sito ufficiale di riferimento è: https://cables.gl
-- Il sito di supporto alla didattica è: https://davideriboli.github.io
+![[cover.jpg]]
+
+---
