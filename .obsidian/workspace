@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Useful Links.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Useful Links.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -92,12 +92,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 304,
+    "collapsed": true
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
-    "Links&Tools/Useful Links.md",
     "README.md",
+    "Links&Tools/Useful Links.md",
     "01_TD-101/The Interactive & Immersive HQ Crash Course/00 - Intro.md",
     "03_Student-Works/LEMS-Pesaro/Davide Rana/ReadMe.md",
     "01_TD-101/README.md",
