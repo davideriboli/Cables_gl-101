@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bootcamp/Generative Op Art Using Feedback.md",
+            "file": "Bootcamp/Generative Op Art Using Feedback/Generative Op Art Using Feedback.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bootcamp/Generative Op Art Using Feedback.md",
+                "file": "Bootcamp/Generative Op Art Using Feedback/Generative Op Art Using Feedback.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -97,6 +97,7 @@
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
+    "Bootcamp/Generative Op Art Using Feedback.md",
     "Useful Links.md",
     "README.md",
     "Links&Tools/Useful Links.md",
@@ -105,7 +106,6 @@
     "01_TD-101/README.md",
     "03_Student-Works/README.md",
     "02_TD-Bootcamp/Wharolizer/README.md",
-    "02_TD-Bootcamp/README.md",
-    "02_TD-Bootcamp/A Flock/NetworkPreview.PNG"
+    "02_TD-Bootcamp/README.md"
   ]
 }
