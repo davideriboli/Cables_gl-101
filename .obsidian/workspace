@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Useful Links.md",
+            "file": "Bootcamp/Generative Op Art Using Feedback.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#println",
+                "query": "tag:#DrawImage",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Links.md",
+                "file": "Bootcamp/Generative Op Art Using Feedback.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -97,6 +97,7 @@
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
+    "Useful Links.md",
     "README.md",
     "Links&Tools/Useful Links.md",
     "01_TD-101/The Interactive & Immersive HQ Crash Course/00 - Intro.md",
@@ -105,7 +106,6 @@
     "03_Student-Works/README.md",
     "02_TD-Bootcamp/Wharolizer/README.md",
     "02_TD-Bootcamp/README.md",
-    "02_TD-Bootcamp/A Flock/NetworkPreview.PNG",
-    "Links&Tools/Templates/Sketch_Tpl.md"
+    "02_TD-Bootcamp/A Flock/NetworkPreview.PNG"
   ]
 }

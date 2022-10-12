@@ -7,5 +7,6 @@
   "obsidian-git",
   "obsidian-plugin-toc",
   "code-block-copy",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "tag-wrangler"
 ]
