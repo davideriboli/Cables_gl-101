@@ -1,7 +1,7 @@
 {
   "defaultViewMode": "preview",
   "showLineNumber": true,
-  "foldHeading": true,
+  "foldHeading": false,
   "foldIndent": false,
   "spellcheckLanguages": [
     "it",

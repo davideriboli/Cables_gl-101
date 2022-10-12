@@ -1,12 +1,12 @@
 [
   "obsidian-sort-and-permute-lines",
   "simple-embeds",
-  "obsidian-card-view-mode",
   "obsidian-embedded-note-titles",
   "obsidian-icon-folder",
   "obsidian-git",
   "obsidian-plugin-toc",
   "code-block-copy",
   "cm-editor-syntax-highlight-obsidian",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-card-view-mode"
 ]

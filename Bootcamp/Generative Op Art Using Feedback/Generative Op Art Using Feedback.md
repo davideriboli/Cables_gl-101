@@ -1,15 +1,21 @@
 ![[Preview.jpg]]
 
+---
+
 #### Intro
 
 This tutorial has two benefits: it is an excellent first approach to Cables and shows how to use the feedback method, which is a fundamental technique in the creation of visuals and generative art.
 
 In my patch, all operators are numbered according to the order in which they were created. 
 
+---
+
 ### Links
 
 - [Tutorial Source|noembed](https://www.youtube.com/watch?v=SCFizyJixbA)
 - [DR Patch|noembed](https://cables.gl/p/6Xf4cf))
+
+---
 
 ### Recipe
 
@@ -91,3 +97,5 @@ In my patch, all operators are numbered according to the order in which they wer
 19) #BulgePinch op. Bulge and pinch an image (deform,stretch,distort).
 	> **BulgePinch Settings**
 	> - Strenght = 0.05
+
+---
