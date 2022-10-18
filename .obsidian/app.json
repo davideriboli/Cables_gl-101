@@ -12,5 +12,6 @@
   "communityPluginSortOrder": "download",
   "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "spellcheck": true
 }
